@@ -6,9 +6,8 @@
     </head>
     <body>
         <!-- Isto é um comentário -->
-        <p>Página do Projeto N4rt2r</p>
+        <h1 class = "title">Página do Projeto N4rt2r</h1>
         <p>este é o segundo parágrafo</p>
-        <p>Este é o terceiro parágrafo</p>
         <p>Este parágrafo foi adicionado após um commit no Git</p>
         <p> </p>
         <?php 
