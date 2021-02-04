@@ -5,6 +5,7 @@
         <meta charset="utf-8">
     </head>
     <body>
+        <main>
         <!-- Isto é um comentário -->
         <!-- Exclusão de comentário -->
         <h1 class = "title">Página do Projeto N4rt2r</h1>
@@ -16,5 +17,6 @@
             echo " - Esta linha foi escrita em PHP";
             echo "More one line with PHP";
         ?>
+        </main>
     </body>
 </html>
